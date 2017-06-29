@@ -1,0 +1,8 @@
+{
+    "require": {
+        "workerman/workerman": "^3.4",
+        "workerman/mysql": "^1.0",
+        "guzzlehttp/guzzle": "^6.2",
+        "paquettg/php-html-parser": "^1.7"
+    }
+}
